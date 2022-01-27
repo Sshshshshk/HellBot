@@ -135,7 +135,7 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-Sshshshshk">The-HellBot</a></h4>
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
 
 Project [HellBot](https://github.com/Sshshshshk/HellBot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
